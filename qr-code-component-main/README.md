@@ -1,4 +1,6 @@
 # Frontend Mentor - QR code component solution
+![screenshot](./design/desktop-preview.jpg)
+ [solution](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-l6W9uaO5wA) | [live](https://yazguldonmez.github.io/frontend-mentor/qr-code-component-main/)
 
 ## Welcome! 👋
 
@@ -12,19 +14,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-##Overview
+## Overview
 
-### Screenshots
+### Screenshot
 
 ![screenshot](./design/desktop-my-design.jpg)
-[Screenshot](./design/mobile-my-design.jpg)
+![Screenshot](./design/mobile-my-design.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-l6W9uaO5wA)
+- Live Site URL: [live site URL](https://yazguldonmez.github.io/frontend-mentor/qr-code-component-main/)
 
-##My process
+## My process
 
 ### Built with
 
@@ -35,4 +37,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yazguldonmez)
+- Frontend Mentor - [@yazguldonmez](https://www.frontendmentor.io/profile/yazguldonmez)
